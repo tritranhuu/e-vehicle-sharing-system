@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+matplotlib==3.7.3
+pandas==2.0.3
+requests==2.31.0
+tkcalendar==1.6.1
+tkintermapview==1.29
+tqdm==4.66.1
