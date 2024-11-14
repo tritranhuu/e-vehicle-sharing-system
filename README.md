@@ -1,4 +1,3 @@
-# Team Project - Group M16
 ## E-Vehicle Sharing System 
 
 
